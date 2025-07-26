@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing:border-box;}
+
+.ai{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 8px 14px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+    font-size: x-large;
+
+}
+.xyz{
+    text-align: center;
+    font-size: x-large;
+}
+
+.nav{
+    color: #000;
+}
+/*default light theme*/
+.body{
+  padding: 25px;
+  background-color: white;
+  color: black;
+  
+}
+/*default dark theme*/
+.body {
+  background-color: black;
+  color: white;
+}
